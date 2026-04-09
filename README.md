@@ -8,3 +8,6 @@ Portfólio Git - Desenvolvimento de Software
 
 ## Autor
 Francisco Faustino - CIn UFPE 2026.1
+## Tecnologias
+- Git
+- GitHub
